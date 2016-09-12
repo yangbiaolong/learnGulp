@@ -1,3 +1,6 @@
 #该文件用途：忽略某些不想提交到git上的文件或者文件夹
+
 #通过命令行命令'touch .gitignore'进行创建
+#或者通过安装webstorm的.ignore插件，然后右键创建，github地址https://github.com/hsz/idea-gitignore
 .idea
+node_modules
