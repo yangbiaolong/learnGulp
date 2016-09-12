@@ -2,5 +2,7 @@
 
 #通过命令行命令'touch .gitignore'进行创建
 #或者通过安装webstorm的.ignore插件，然后右键创建，github地址https://github.com/hsz/idea-gitignore
+
+#.DS_Store 存储os系统文件夹的显示属性的信息
 .idea
 node_modules
