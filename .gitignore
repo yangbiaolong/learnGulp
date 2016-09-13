@@ -6,3 +6,4 @@
 #.DS_Store 存储os系统文件夹的显示属性的信息
 .idea
 node_modules
+npm-debug.log

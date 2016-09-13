@@ -1,0 +1,29 @@
+{
+  "name": "learn-gulp-package-name",
+  "version": "0.0.1",
+  "description": "this is a simple practice",
+  "main": "11",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "husky": "^0.11.7",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangbiaolong/learnGulp.git"
+  },
+  "keywords": [
+    "gulp practice"
+  ],
+  "author": "biaolong.yang",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yangbiaolong/learnGulp/issues"
+  },
+  "homepage": "https://github.com/yangbiaolong/learnGulp#readme"
+}
